@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Danila
 ### I'm Java Developer
 
-⚡ Java SE/EE/FX, Spring, JPA, Hibernate, SOLID, AOP, Maven, Gradle, JUnit, Mockito, Lombok, REST, Design and Java EE Patterns, Loggers, JDBC, SQL, ACID, XML, JSON, MVC, Tomcat, HTML/CSS, JSP, JSTL, Bootstrap, Postman, Swagger, Git&GitHub ⚡
+⚡ Java SE/EE/FX, Spring, JPA, Hibernate, SOLID, Maven, Gradle, JUnit, Mockito, Lombok, REST, JDBC, SQL, XML, JSON, MVC, Tomcat, HTML/CSS, Bootstrap, Postman, Git&GitHub ⚡
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danilaJDev&theme=github_dark)
 
